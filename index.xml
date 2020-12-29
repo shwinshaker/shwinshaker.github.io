@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chengyu</title>
-    <link>https://chengyu.github.io/</link>
-      <atom:link href="https://chengyu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shwinshaker.github.io/</link>
+      <atom:link href="https://shwinshaker.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Chengyu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://chengyu.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://shwinshaker.github.io/images/icon_hudcb36ec4c0f2a7aa3b34982f604358db_22747_512x512_fill_lanczos_center_2.png</url>
       <title>Chengyu</title>
-      <link>https://chengyu.github.io/</link>
+      <link>https://shwinshaker.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://chengyu.github.io/talk/example/</link>
+      <link>https://shwinshaker.github.io/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://chengyu.github.io/talk/example/</guid>
+      <guid>https://shwinshaker.github.io/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Towards Adaptive Residual Network Training: A Neural-ODE Perspective</title>
-      <link>https://chengyu.github.io/publication/lipgrow/</link>
+      <link>https://shwinshaker.github.io/publication/lipgrow/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://chengyu.github.io/publication/lipgrow/</guid>
+      <guid>https://shwinshaker.github.io/publication/lipgrow/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -60,9 +60,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Slides</title>
-      <link>https://chengyu.github.io/slides/example/</link>
+      <link>https://shwinshaker.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://chengyu.github.io/slides/example/</guid>
+      <guid>https://shwinshaker.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -189,18 +189,18 @@ Three
     
     <item>
       <title>On the close encounters between Plutinos and Neptune Trojans</title>
-      <link>https://chengyu.github.io/project/example/</link>
+      <link>https://shwinshaker.github.io/project/example/</link>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://chengyu.github.io/project/example/</guid>
+      <guid>https://shwinshaker.github.io/project/example/</guid>
       <description>&lt;p&gt;Close encounters (CEs) between celestial objects may exert significant influence on their orbits. The influence will be even enhanced when two groups of celestial objects are confined in stable orbital configurations, e.g. in adjacent mean motion resonances (MMRs). Plutinos and Neptune Trojans, trapped in the 2:3 and 1:1 MMRs with Neptune respectively, are such examples. %Meanwhile, many objects among these two groups have peculiar orbits, seemingly as the vestige of CEs. As the first part of our investigation, this paper provides a detailed description of CEs between Plutinos and Trojans and their potential influences on the Trojans&#39; orbits. Statistical analyses of CE data from numerical simulations reveal the randomness lying in the CEs between the two planetesimals. The closest positions of CEs distribute symmetrically inside the given CE region and no particular bias is found between the positive and negative effects on the orbital elements of Trojans. Based on the Gaussian approximation on the distribution of the velocity orientation of Plutino, and the integral derivatives of Gaussian perturbation equations, a theoretical method is built to estimate the CE effects. To further verify the randomness of CEs, a Monte Carlo approach is applied, and it generates distribution features consistent with the numerical results. In summary, CEs brought by realistic Plutinos exert impartial effects and tiny total influence on the orbital elements of Trojans. However, driven by the random walk mechanism, tiny effects may accumulate to a prominent variation given sufficient CEs, which will be discussed in the accompanying paper.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://chengyu.github.io/post/getting-started/</link>
+      <link>https://shwinshaker.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://chengyu.github.io/post/getting-started/</guid>
+      <guid>https://shwinshaker.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
