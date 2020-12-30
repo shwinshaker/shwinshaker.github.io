@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Public Service | Chengyu</title>
+    <link>https://shwinshaker.github.io/tag/public-service/</link>
+      <atom:link href="https://shwinshaker.github.io/tag/public-service/index.xml" rel="self" type="application/rss+xml" />
+    <description>Public Service</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shwinshaker.github.io/images/icon_huc6ec9288abfb8d3e680ffb37d36eb02e_22720_512x512_fill_lanczos_center_2.png</url>
+      <title>Public Service</title>
+      <link>https://shwinshaker.github.io/tag/public-service/</link>
+    </image>
+    
+    <item>
+      <title>LEChina 2017</title>
+      <link>https://shwinshaker.github.io/project/lechina/</link>
+      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://shwinshaker.github.io/project/lechina/</guid>
+      <description>&lt;p&gt;In Spring 2017, I had the honor to work as one of the project managers of Learning Enterprises (China). My major responsibility is to advertise our project and recruit voluneers from domestic universities. Our project located in Rugao, Jiangsu. The figure above is one of the posters I made for advertising the project.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://shwinshaker.github.io/project/</link>
       <atom:link href="https://shwinshaker.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shwinshaker.github.io/images/icon_huc6ec9288abfb8d3e680ffb37d36eb02e_22720_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
@@ -13,11 +13,111 @@
     </image>
     
     <item>
-      <title>On the close encounters between Plutinos and Neptune Trojans</title>
-      <link>https://shwinshaker.github.io/project/example/</link>
-      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://shwinshaker.github.io/project/example/</guid>
-      <description>&lt;p&gt;Close encounters (CEs) between celestial objects may exert significant influence on their orbits. The influence will be even enhanced when two groups of celestial objects are confined in stable orbital configurations, e.g. in adjacent mean motion resonances (MMRs). Plutinos and Neptune Trojans, trapped in the 2:3 and 1:1 MMRs with Neptune respectively, are such examples. %Meanwhile, many objects among these two groups have peculiar orbits, seemingly as the vestige of CEs. As the first part of our investigation, this paper provides a detailed description of CEs between Plutinos and Trojans and their potential influences on the Trojans&#39; orbits. Statistical analyses of CE data from numerical simulations reveal the randomness lying in the CEs between the two planetesimals. The closest positions of CEs distribute symmetrically inside the given CE region and no particular bias is found between the positive and negative effects on the orbital elements of Trojans. Based on the Gaussian approximation on the distribution of the velocity orientation of Plutino, and the integral derivatives of Gaussian perturbation equations, a theoretical method is built to estimate the CE effects. To further verify the randomness of CEs, a Monte Carlo approach is applied, and it generates distribution features consistent with the numerical results. In summary, CEs brought by realistic Plutinos exert impartial effects and tiny total influence on the orbital elements of Trojans. However, driven by the random walk mechanism, tiny effects may accumulate to a prominent variation given sufficient CEs, which will be discussed in the accompanying paper.&lt;/p&gt;
+      <title>Stage plays</title>
+      <link>https://shwinshaker.github.io/project/play/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://shwinshaker.github.io/project/play/</guid>
+      <description>&lt;p&gt;I love drama. I read a lot of drama scripts, and acted in a few stage plays. While acting like others, I can experience a different life, which often inspires a lot.&lt;/p&gt;
+&lt;p&gt;These are some of the stage plays I acted in.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Americal Love Story&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A touching story about young men and women struggling to survive in America and looking for true love
+&lt;img src=&#34;lovestory1.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Kong Yiji (孔乙己)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Adapted from Lu xun (鲁迅)&amp;rsquo;s famous novel Kong Yiji. The play reflects the human nature in old China.
+&lt;img src=&#34;kong1.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Monkeys (群猴)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;An ironic story mocking an election compaign in old China.
+&lt;img src=&#34;monkey.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LEChina 2017</title>
+      <link>https://shwinshaker.github.io/project/lechina/</link>
+      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://shwinshaker.github.io/project/lechina/</guid>
+      <description>&lt;p&gt;In Spring 2017, I had the honor to work as one of the project managers of Learning Enterprises (China). My major responsibility is to advertise our project and recruit voluneers from domestic universities. Our project located in Rugao, Jiangsu. The figure above is one of the posters I made for advertising the project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Monte-Carlo simulations on the H2 exosphere of Titan</title>
+      <link>https://shwinshaker.github.io/project/titan/</link>
+      <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://shwinshaker.github.io/project/titan/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Titan_%28moon%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Titan&lt;/a&gt; is the largest moon of Saturn, and also the second-largest moon in the solar system after Jupiter&amp;rsquo;s moon, Ganymede. Titan is 50% larger than Earth&amp;rsquo;s moon, and larger than the smallest planet in our solar system, Mercury. In addition, Titan is the only known moon with a dense atmosphere and the only known celestial body that posseses surface liquid other than Earth. Such characteristics make it one of the most interesting bodies in our solar system that people are eager to explore.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Titan&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Cassini-Huygens Mission&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;Titan.jpg&#34; alt=&#34;Titan&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;Cassini-Huygens.jpg&#34; alt=&#34;Cassini-Huygens&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Cassini%e2%80%93Huygens&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cassini-Huygens mission&lt;/a&gt; was aimed to study Saturn and its planetary system. The spacecraft comprised a orbiter, Cassini, and a lander, Huygens, which is named after Titan&amp;rsquo;s discoverer. The Cassini orbiter made multiple close flybys of Titan, and measured Titan&amp;rsquo;s atmosphere composition at different heights with INMS (Ion and Neutral Mass Spectrometer). That&amp;rsquo;s where our data come from.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Exosphere&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;exosphere&lt;/a&gt; is a volume surrounding a body where molecules are gravitationally bound, but where the density is two low for them to collide. The above figure shows the bottom of Titan&amp;rsquo;s exosphere is about 2000 kilometes from the surface (Titan&amp;rsquo;s radius is about 2500km), where the slope of H2&amp;rsquo;s density decreases abruptly. This is because the molecules in the exosphere no more experience the barometric pressure. In this figure we plot the median of H2 density within each height segment, and in different sector areas with respect to Saturn. One interesting phenomenon is that the H2 density in the &amp;ldquo;F&amp;rdquo; sector, namely the one-fourth area ahead Titan&amp;rsquo;s revolution around Saturn, is significantly higher than other areas. We thougt this may be due to the perturbation of Saturn.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;distribution.png&#34; alt=&#34;Distribution&#34;&gt;&lt;/p&gt;
+&lt;p&gt;To prove that, we did a Monte-Carlo simulation for hypothetical H2 molecules around Titan. The model is simply a restricted three-body problem including molecules, Titan and Saturn. The initial velocity of molecules must satisfy Maxwell distribution, plus a wind speed on Titan&amp;rsquo;s surface as high as 100m/s. The upper boundary of the model is the hill sphere of Titan, beyond which the molecules are no longer bound by Titan. Below is a simulation of the emission of 10,000 molecules from the surface of Titan, viewed from the north pole of Titan. Saturn resides somewhere to the right. Unfortunately, no significant difference was observed between areas in the four directions.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;Animate_10000p-2D.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;!-- &lt;video width=&#34;320&#34; controls style=&#34;display: block; width: 50%; margin: auto&#34;&gt;
+    &lt;source src=&#34;{{ &#39;assets/images/Animate_10000p-2D.mp4&#39; | relative_url }}&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt; --&gt;
+&lt;p&gt;Detailed analysis could also be done by detecting the velocity distributions of molecules in different areas. Below is a animation of the change of the velocity distributions during emission. Again, no signicant difference was observed.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;Animate_velocity.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;!-- &lt;video width=&#34;320&#34; controls style=&#34;display: block; width: 50%; margin: auto&#34;&gt;
+    &lt;source src=&#34;{{ &#39;assets/images/Animate_velocity.mp4&#39; | relative_url }}&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt; --&gt;
+&lt;br/&gt;
 </description>
     </item>
     

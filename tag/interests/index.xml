@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interests | Chengyu</title>
+    <link>https://shwinshaker.github.io/tag/interests/</link>
+      <atom:link href="https://shwinshaker.github.io/tag/interests/index.xml" rel="self" type="application/rss+xml" />
+    <description>Interests</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shwinshaker.github.io/images/icon_huc6ec9288abfb8d3e680ffb37d36eb02e_22720_512x512_fill_lanczos_center_2.png</url>
+      <title>Interests</title>
+      <link>https://shwinshaker.github.io/tag/interests/</link>
+    </image>
+    
+    <item>
+      <title>Stage plays</title>
+      <link>https://shwinshaker.github.io/project/play/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://shwinshaker.github.io/project/play/</guid>
+      <description>&lt;p&gt;I love drama. I read a lot of drama scripts, and acted in a few stage plays. While acting like others, I can experience a different life, which often inspires a lot.&lt;/p&gt;
+&lt;p&gt;These are some of the stage plays I acted in.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Americal Love Story&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A touching story about young men and women struggling to survive in America and looking for true love
+&lt;img src=&#34;lovestory1.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Kong Yiji (孔乙己)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Adapted from Lu xun (鲁迅)&amp;rsquo;s famous novel Kong Yiji. The play reflects the human nature in old China.
+&lt;img src=&#34;kong1.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Monkeys (群猴)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;An ironic story mocking an election compaign in old China.
+&lt;img src=&#34;monkey.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

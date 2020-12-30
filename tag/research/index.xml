@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | Chengyu</title>
+    <link>https://shwinshaker.github.io/tag/research/</link>
+      <atom:link href="https://shwinshaker.github.io/tag/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shwinshaker.github.io/images/icon_huc6ec9288abfb8d3e680ffb37d36eb02e_22720_512x512_fill_lanczos_center_2.png</url>
+      <title>Research</title>
+      <link>https://shwinshaker.github.io/tag/research/</link>
+    </image>
+    
+    <item>
+      <title>Monte-Carlo simulations on the H2 exosphere of Titan</title>
+      <link>https://shwinshaker.github.io/project/titan/</link>
+      <pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://shwinshaker.github.io/project/titan/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Titan_%28moon%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Titan&lt;/a&gt; is the largest moon of Saturn, and also the second-largest moon in the solar system after Jupiter&amp;rsquo;s moon, Ganymede. Titan is 50% larger than Earth&amp;rsquo;s moon, and larger than the smallest planet in our solar system, Mercury. In addition, Titan is the only known moon with a dense atmosphere and the only known celestial body that posseses surface liquid other than Earth. Such characteristics make it one of the most interesting bodies in our solar system that people are eager to explore.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Titan&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Cassini-Huygens Mission&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;Titan.jpg&#34; alt=&#34;Titan&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;Cassini-Huygens.jpg&#34; alt=&#34;Cassini-Huygens&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Cassini%e2%80%93Huygens&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cassini-Huygens mission&lt;/a&gt; was aimed to study Saturn and its planetary system. The spacecraft comprised a orbiter, Cassini, and a lander, Huygens, which is named after Titan&amp;rsquo;s discoverer. The Cassini orbiter made multiple close flybys of Titan, and measured Titan&amp;rsquo;s atmosphere composition at different heights with INMS (Ion and Neutral Mass Spectrometer). That&amp;rsquo;s where our data come from.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://en.wikipedia.org/wiki/Exosphere&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;exosphere&lt;/a&gt; is a volume surrounding a body where molecules are gravitationally bound, but where the density is two low for them to collide. The above figure shows the bottom of Titan&amp;rsquo;s exosphere is about 2000 kilometes from the surface (Titan&amp;rsquo;s radius is about 2500km), where the slope of H2&amp;rsquo;s density decreases abruptly. This is because the molecules in the exosphere no more experience the barometric pressure. In this figure we plot the median of H2 density within each height segment, and in different sector areas with respect to Saturn. One interesting phenomenon is that the H2 density in the &amp;ldquo;F&amp;rdquo; sector, namely the one-fourth area ahead Titan&amp;rsquo;s revolution around Saturn, is significantly higher than other areas. We thougt this may be due to the perturbation of Saturn.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;distribution.png&#34; alt=&#34;Distribution&#34;&gt;&lt;/p&gt;
+&lt;p&gt;To prove that, we did a Monte-Carlo simulation for hypothetical H2 molecules around Titan. The model is simply a restricted three-body problem including molecules, Titan and Saturn. The initial velocity of molecules must satisfy Maxwell distribution, plus a wind speed on Titan&amp;rsquo;s surface as high as 100m/s. The upper boundary of the model is the hill sphere of Titan, beyond which the molecules are no longer bound by Titan. Below is a simulation of the emission of 10,000 molecules from the surface of Titan, viewed from the north pole of Titan. Saturn resides somewhere to the right. Unfortunately, no significant difference was observed between areas in the four directions.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;Animate_10000p-2D.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;!-- &lt;video width=&#34;320&#34; controls style=&#34;display: block; width: 50%; margin: auto&#34;&gt;
+    &lt;source src=&#34;{{ &#39;assets/images/Animate_10000p-2D.mp4&#39; | relative_url }}&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt; --&gt;
+&lt;p&gt;Detailed analysis could also be done by detecting the velocity distributions of molecules in different areas. Below is a animation of the change of the velocity distributions during emission. Again, no signicant difference was observed.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;Animate_velocity.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;!-- &lt;video width=&#34;320&#34; controls style=&#34;display: block; width: 50%; margin: auto&#34;&gt;
+    &lt;source src=&#34;{{ &#39;assets/images/Animate_velocity.mp4&#39; | relative_url }}&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt; --&gt;
+&lt;br/&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
