@@ -34,10 +34,10 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Backdoor attack introduces artificial vulnerabilities into the model by poisoning a subset of the training data via injecting triggers and modifying labels. Various trigger design strategies have been explored to attack text classifiers, however, defending such attacks remains an open problem. In this work, we propose BFClass, a novel efficient backdoor-free training framework for text classification. The backbone of BFClass is a pre-trained discriminator that predicts whether each token in the corrupted input was replaced by a masked language model. To identify triggers, we utilize this discriminator to locate the most suspicious token from each training sample and then distill a concise set by considering their association strengths with particular labels. To recognize the poisoned subset, we examine the training samples with these identified triggers as the most suspicious token, and check if removing the trigger will change the poisoned model&#39;s prediction. Extensive experiments demonstrate that BFClass can identify all the triggers, remove 95% poisoned training samples with very limited false alarms, and achieve almost the same performance as the models trained on the benign training data.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://shwinshaker.github.io/tag/public-service/">
+  <link rel="alternate" hreflang="en-us" href="https://shwinshaker.github.io/publication/bfclass/">
 
   
 
@@ -294,14 +294,12 @@
   
 
   
-  <link rel="alternate" href="/tag/public-service/index.xml" type="application/rss+xml" title="Chengyu">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_huc6ec9288abfb8d3e680ffb37d36eb02e_22720_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_huc6ec9288abfb8d3e680ffb37d36eb02e_22720_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://shwinshaker.github.io/tag/public-service/">
+  <link rel="canonical" href="https://shwinshaker.github.io/publication/bfclass/">
 
   
   
@@ -317,18 +315,61 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Chengyu">
-  <meta property="og:url" content="https://shwinshaker.github.io/tag/public-service/">
-  <meta property="og:title" content="Public Service | Chengyu">
-  <meta property="og:description" content=""><meta property="og:image" content="https://shwinshaker.github.io/images/icon_huc6ec9288abfb8d3e680ffb37d36eb02e_22720_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="https://shwinshaker.github.io/publication/bfclass/">
+  <meta property="og:title" content="BFClass: A Backdoor-free Text Classification Framework | Chengyu">
+  <meta property="og:description" content="Backdoor attack introduces artificial vulnerabilities into the model by poisoning a subset of the training data via injecting triggers and modifying labels. Various trigger design strategies have been explored to attack text classifiers, however, defending such attacks remains an open problem. In this work, we propose BFClass, a novel efficient backdoor-free training framework for text classification. The backbone of BFClass is a pre-trained discriminator that predicts whether each token in the corrupted input was replaced by a masked language model. To identify triggers, we utilize this discriminator to locate the most suspicious token from each training sample and then distill a concise set by considering their association strengths with particular labels. To recognize the poisoned subset, we examine the training samples with these identified triggers as the most suspicious token, and check if removing the trigger will change the poisoned model&#39;s prediction. Extensive experiments demonstrate that BFClass can identify all the triggers, remove 95% poisoned training samples with very limited false alarms, and achieve almost the same performance as the models trained on the benign training data."><meta property="og:image" content="https://shwinshaker.github.io/images/icon_huc6ec9288abfb8d3e680ffb37d36eb02e_22720_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://shwinshaker.github.io/images/icon_huc6ec9288abfb8d3e680ffb37d36eb02e_22720_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2017-03-27T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2021-09-22T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2021-05-22T00:00:00&#43;00:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://shwinshaker.github.io/publication/bfclass/"
+  },
+  "headline": "BFClass: A Backdoor-free Text Classification Framework",
+  
+  "datePublished": "2021-09-22T00:00:00Z",
+  "dateModified": "2021-05-22T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Zichao Li"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chengyu",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://shwinshaker.github.io/images/icon_huc6ec9288abfb8d3e680ffb37d36eb02e_22720_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "Backdoor attack introduces artificial vulnerabilities into the model by poisoning a subset of the training data via injecting triggers and modifying labels. Various trigger design strategies have been explored to attack text classifiers, however, defending such attacks remains an open problem. In this work, we propose BFClass, a novel efficient backdoor-free training framework for text classification. The backbone of BFClass is a pre-trained discriminator that predicts whether each token in the corrupted input was replaced by a masked language model. To identify triggers, we utilize this discriminator to locate the most suspicious token from each training sample and then distill a concise set by considering their association strengths with particular labels. To recognize the poisoned subset, we examine the training samples with these identified triggers as the most suspicious token, and check if removing the trigger will change the poisoned model's prediction. Extensive experiments demonstrate that BFClass can identify all the triggers, remove 95% poisoned training samples with very limited false alarms, and achieve almost the same performance as the models trained on the benign training data."
+}
+</script>
+
+  
 
   
 
@@ -336,8 +377,11 @@
   
 
 
+  
 
-  <title>Public Service | Chengyu</title>
+
+
+  <title>BFClass: A Backdoor-free Text Classification Framework | Chengyu</title>
 
 </head>
 
@@ -665,6 +709,17 @@
 
 
 
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
 
 
 
@@ -672,52 +727,463 @@
   
 
   
+  
+  
+<div class="article-container pt-3">
+  <h1>BFClass: A Backdoor-free Text Classification Framework</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      Zichao Li</span>, <span >
+      Dheeraj Mekala</span>, <span >
+      Chengyu Dong</span>, <span >
+      Jingbo Shang</span>, <span >
+      Equal contribution</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2109.10855" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>Public Service</h1>
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/dheeraj7596/BFClass" target="_blank" rel="noopener">
+  Code
+</a>
 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  
-  
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Backdoor attack introduces artificial vulnerabilities into the model by poisoning a subset of the training data via injecting triggers and modifying labels. Various trigger design strategies have been explored to attack text classifiers, however, defending such attacks remains an open problem. In this work, we propose BFClass, a novel efficient backdoor-free training framework for text classification. The backbone of BFClass is a pre-trained discriminator that predicts whether each token in the corrupted input was replaced by a masked language model. To identify triggers, we utilize this discriminator to locate the most suspicious token from each training sample and then distill a concise set by considering their association strengths with particular labels. To recognize the poisoned subset, we examine the training samples with these identified triggers as the most suspicious token, and check if removing the trigger will change the poisoned model&rsquo;s prediction. Extensive experiments demonstrate that BFClass can identify all the triggers, remove 95% poisoned training samples with very limited false alarms, and achieve almost the same performance as the models trained on the benign training data.</p>
+    
+
     
     
-    
-    <div>
-      <h2><a href="/project/lechina/" >LEChina 2017</a></h2>
-      <div class="article-style">
-        
-          Learning Enterprises (China) is a project aiming to foster cross-cultural exchange by connecting volunteers from global universities and local communities in China.
-        
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+          </div>
+        </div>
       </div>
+      <div class="col-md-1"></div>
     </div>
-  
+    <div class="d-md-none space-below"></div>
     
+
     
-    
-    <div>
-      <h2><a href="/project/noc/" >2014 Summer Youth Olympics</a></h2>
-      <div class="article-style">
-        
-          As an assitant of the Turkish delegation, I had a wonderful summer in 2014.
-        
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In <em>EMNLP 2021</em></div>
+        </div>
       </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"><!--
+<div class="alert alert-note">
+  <div>
+    Click the <em>Cite</em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  </div>
+</div>
+
+
+<div class="alert alert-note">
+  <div>
+    Create your slides in Markdown - click the <em>Slides</em> button to check out the example.
+  </div>
+</div>
+
+-->
+<!--
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+-->
+</div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://shwinshaker.github.io/publication/bfclass/&amp;text=BFClass:%20A%20Backdoor-free%20Text%20Classification%20Framework" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://shwinshaker.github.io/publication/bfclass/&amp;t=BFClass:%20A%20Backdoor-free%20Text%20Classification%20Framework" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=BFClass:%20A%20Backdoor-free%20Text%20Classification%20Framework&amp;body=https://shwinshaker.github.io/publication/bfclass/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://shwinshaker.github.io/publication/bfclass/&amp;title=BFClass:%20A%20Backdoor-free%20Text%20Classification%20Framework" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=BFClass:%20A%20Backdoor-free%20Text%20Classification%20Framework%20https://shwinshaker.github.io/publication/bfclass/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://shwinshaker.github.io/publication/bfclass/&amp;title=BFClass:%20A%20Backdoor-free%20Text%20Classification%20Framework" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
   
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://shwinshaker.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu027c042b7135e2736ca03c688eed95e8_2859306_270x270_fill_q75_lanczos_center.jpg" alt="Chengyu Dong"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://shwinshaker.github.io/">Chengyu Dong</a></h5>
+      
+      <p class="card-text">Curiosity and Enthusiasm</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/chengyu77" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/shwinshaker" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/chengyudong/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.douban.com/people/132502417/" target="_blank" rel="noopener">
+        <i class="custom custom-douban"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
 
   
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/doubledescent/">Double Descent in Adversarial Training: An Implicit Label Noise Perspective</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
 </div>
   </div>
 

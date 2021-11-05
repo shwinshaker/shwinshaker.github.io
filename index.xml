@@ -33,9 +33,61 @@
     </item>
     
     <item>
-      <title>Data Profiling for Adversarial Training: On the Ruin of Problematic Data</title>
+      <title>Double Descent in Adversarial Training: An Implicit Label Noise Perspective</title>
+      <link>https://shwinshaker.github.io/publication/doubledescent/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://shwinshaker.github.io/publication/doubledescent/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+&lt;!--
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BFClass: A Backdoor-free Text Classification Framework</title>
+      <link>https://shwinshaker.github.io/publication/bfclass/</link>
+      <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://shwinshaker.github.io/publication/bfclass/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+&lt;!--
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Quality Matters For Adversarial Training: An Empirical Study</title>
       <link>https://shwinshaker.github.io/publication/dataprofile/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://shwinshaker.github.io/publication/dataprofile/</guid>
       <description>&lt;!--
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -365,6 +417,24 @@ Supplementary notes can be added here, including [code, math, and images](https:
 &lt;!--
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://shwinshaker.github.io/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://shwinshaker.github.io/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://shwinshaker.github.io/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://shwinshaker.github.io/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
