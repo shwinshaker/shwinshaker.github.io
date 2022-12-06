@@ -5,12 +5,64 @@
     <link>https://shwinshaker.github.io/publication/</link>
       <atom:link href="https://shwinshaker.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shwinshaker.github.io/images/icon_hue49b90084172a3fe5b3a7dba6b6246f2_1050_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://shwinshaker.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>SoTeacher: Toward Student-Oriented Teacher Network Training For Knowledge Distillation</title>
+      <link>https://shwinshaker.github.io/publication/soteacher/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://shwinshaker.github.io/publication/soteacher/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+&lt;!--
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LOPS: Learning Order Inspired Pseudo-Label Selection for Weakly Supervised Text Classification</title>
+      <link>https://shwinshaker.github.io/publication/lops/</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://shwinshaker.github.io/publication/lops/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+&lt;!--
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
     
     <item>
       <title>Label Noise in Adversarial Training: A Novel Perspective to Study Robust Overfitting</title>
@@ -35,6 +87,7 @@
 &lt;!--
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 --&gt;
+&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;: We show that label noise implicitly exists in adversarial training and can explain robust overfitting. We also found that robust overfitting is a part of an epoch-wise double descent.&lt;/p&gt;
 </description>
     </item>
     
@@ -58,9 +111,7 @@ Supplementary notes can be added here, including [code, math, and images](https:
 &lt;/div&gt;
 
 --&gt;
-&lt;!--
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
---&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
